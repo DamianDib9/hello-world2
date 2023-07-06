@@ -77,7 +77,7 @@ In order to run this project you need:<br>
 Clone this repository to your desired folder:<br>
 
 cd my-folder
-  git clone git@github.com:DamianDib9/HelloWorld.git<br>
+  git clone git@github.com:DamianDib9/hello-world2.git<br>
 
 
 ### Install
