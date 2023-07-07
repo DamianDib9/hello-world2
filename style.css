@@ -1,0 +1,11 @@
+* {
+  background-color: blueviolet;
+}
+
+.title {
+  color: azure;
+  text-align: center;
+  text-decoration: underline;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
