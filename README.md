@@ -156,4 +156,4 @@ I would like to thank all of my family for helping me trough this Microverse cou
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE.md) licensed.
+This project is [MIT](LICENSE) licensed.
