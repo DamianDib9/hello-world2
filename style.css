@@ -2,9 +2,11 @@
   background-color: blueviolet;
 }
 
-h1 {
+.title {
   color: azure;
   text-align: center;
   text-decoration: underline;
   font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
